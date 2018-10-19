@@ -1,0 +1,7 @@
+foundation-icons: 62.83 KB (33.7%)
+core-js: 40.64 KB (21.8%)
+style-loader: 12.17 KB (6.53%)
+normalize.css: 8.15 KB (4.37%)
+css-loader: 2.64 KB (1.42%)
+babel-runtime: 735 B (0.385%)
+<self>: 59.3 KB (31.8%)
